@@ -1,0 +1,7 @@
+{
+    "base_url": "https://od-api.oxforddictionaries.com/api/v1",
+    "credentials": {
+        "app_key": "your_key",
+        "app_id": "your_id"
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "metadata": {},
+    "results": [
+        {
+            "id": "string",
+            "language": "string",
+            "lexicalEntries": [
+                {
+                    "grammaticalFeatures": [
+                        {
+                            "text": "string",
+                            "type": "string"
+                        }
+                    ],
+                    "inflectionOf": [
+                        {
+                            "id": "string",
+                            "text": "string"
+                        }
+                    ],
+                    "language": "string",
+                    "lexicalCategory": "string",
+                    "text": "string"
+                }
+            ],
+            "type": "string",
+            "word": "string"
+        }
+    ]
+}
